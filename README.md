@@ -24,7 +24,7 @@ Antes de comenzar, asegurate de tener instalados:
 
 1. Cloná este repositorio:
 
-```bash
+
 git clone https://github.com/enzomiretti/0311AT.git
 cd 0311AT
 
